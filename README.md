@@ -15,20 +15,15 @@
   <h2>🛠️ Languages & Tools</h2>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="Java" />
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" alt="CSS3" />
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40" alt="VS Code" />
+    <img src="https://skillicons.dev/icons?i=java" width="80" height="80" alt="Java" />
+    <img src="https://skillicons.dev/icons?i=html" width="80" height="80" alt="HTML" />
+    <img src="https://skillicons.dev/icons?i=css" width="80" height="80" alt="CSS" />
+    <img src="https://skillicons.dev/icons?i=vscode" width="80" height="80" alt="VS Code" />
   </p>
-
-  <!-- Alternative Variante mit skillicons (etwas runder und moderner Look) -->
-  <!-- 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,html,css,vscode&theme=dark&perline=4" alt="Skills" />
-  </p>
-  -->
 
   <br>
+
+  <!-- Wenn du die Icons größer/kleiner willst, ändere einfach width/height z.B. auf 100 oder 60 -->
 
   <table style="border: none; background: transparent; width: 100%;">
     <tr style="background: transparent;">
