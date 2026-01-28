@@ -6,7 +6,7 @@
   <h2>👩‍💻 About Me</h2>
   
   <p>
-    <b>I'm OryxWTF</b> from <b>Neutraubling, Bavaria</b> 🇩🇪<br>
+    <b>I'm OryxWTF</b> </b> 🇩🇪<br>
     Just starting my coding journey – let's build cool things!
   </p>
 
