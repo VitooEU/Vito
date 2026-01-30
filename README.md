@@ -21,7 +21,29 @@
 
   <br><br>
 
-  <!-- Neuer cooler Ersatz für die Stats -->
+  <!-- Neuer Discord Community Bereich – sieht premium aus -->
+  <h2>🌐 Join the Vibes – Discord Server</h2>
+  <p>Chat über Code, Memes, Projekte oder einfach Quatschen? Komm rein! 🚀</p>
+
+  <p align="center">
+    <!-- Live Member Count Badge (dynamisch + klickbar) -->
+    <a href="https://discord.gg/dein-discord-invite">
+      <img src="https://img.shields.io/discord/DEINE_DISCORD_SERVER_ID?color=00ff9d&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord Server" />
+    </a>
+
+    <!-- Alternativ cooler Live-Count mit fancy Look (von vercel.app) -->
+    <!-- <a href="https://discord.gg/dein-discord-invite">
+      <img src="https://discord-live-members-count-badge.vercel.app/api/discord-members?guildId=DEINE_DISCORD_SERVER_ID&color=00ff9d&label=Online%20now&scale=1.2" alt="Live Discord Members" />
+    </a> -->
+
+    <!-- Oder noch simpler Join-Button Style -->
+    <!-- <a href="https://discord.gg/dein-discord-invite">
+      <img src="https://img.shields.io/badge/Join%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord" />
+    </a> -->
+  </p>
+
+  <br>
+
   <h2>⚡ Currently jamming on</h2>
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=OryxWTF&theme=react-dark&bg_color=0d1117&color=00ff9d&line=00ff9d&point=ffffff&area=true&hide_border=true" 
@@ -32,7 +54,7 @@
   <br><br>
 
   <p>
-    <i>"Starting small. Dreaming big. Writing code. ☕💾"</i>
+    <i>"Starting small. Dreaming big. Coding & chilling on Discord. ☕💾"</i>
   </p>
 
 </div>
