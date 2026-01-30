@@ -1,37 +1,43 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4500&pause=800&color=00FF9D&center=true&vCenter=true&width=600&lines=Hey+there!+%F0%9F%91%8B;I'm+OryxWTF;Just+starting+my+coding+journey...+%F0%9F%92%BB" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Hey+there!+%F0%9F%91%8B;I'm+OryxWTF;Learning+to+code+%F0%9F%92%BB" alt="Typing SVG" />
+  <br><br>
 
-  <br><br><br>
-
-  <h1 style="color: #00ff9d; font-family: monospace; margin: 20px 0; font-size: 2.8em;">
-    I'm OryxWTF
-  </h1>
-
-  <h3>👑 About Me</h3>
-  <hr style="border: none; border-top: 2px solid #00ff9d; width: 60%; margin: 20px auto;" />
-
-  <p style="font-size: 1.3em; margin: 25px 0; line-height: 1.6;">
-    I'm OryxWTF_de<br>
+  <h2>👩‍💻 About Me</h2>
+  
+  <p>
+    <b>I'm OryxWTF</b> from <b>Neutraubling, Bavaria</b> 🇩🇪<br>
     Just starting my coding journey – let's build cool things!
   </p>
 
-  <hr style="border: none; border-top: 2px solid #00ff9d; width: 60%; margin: 50px auto;" />
+  <hr style="border: 1px solid #00ff9d; border-radius: 2px; width: 60%; margin: 30px auto;" />
 
-  <h3>✨ Languages & Tools</h3>
+  <h2>🛠️ Languages & Tools</h2>
 
-  <p style="margin: 40px 0;">
-    <img src="https://skillicons.dev/icons?i=java" width="100" height="100" alt="Java" />
-    <img src="https://skillicons.dev/icons?i=html" width="100" height="100" alt="HTML" />
-    <img src="https://skillicons.dev/icons?i=css" width="100" height="100" alt="CSS" />
-    <img src="https://skillicons.dev/icons?i=javascript" width="100" height="100" alt="JavaScript" />
-    <img src="https://skillicons.dev/icons?i=vscode" width="100" height="100" alt="VS Code" />
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=java" width="80" height="80" alt="Java" />
+    <img src="https://skillicons.dev/icons?i=html" width="80" height="80" alt="HTML" />
+    <img src="https://skillicons.dev/icons?i=css" width="80" height="80" alt="CSS" />
+    <img src="https://skillicons.dev/icons?i=javascript" width="90" height="90" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=vscode" width="80" height="80" alt="VS Code" />
   </p>
 
-  <br><br><br><br>
+  <br>
 
-  <p style="font-style: italic; color: #aaaaaa; font-size: 1.2em; margin-top: 60px;">
-    "Starting small. Dreaming big. ☕"
+  <!-- Wenn du die Icons größer/kleiner willst, ändere einfach width/height z.B. auf 100 oder 60 -->
+
+  <table style="border: none; background: transparent; width: 100%;">
+    <tr style="background: transparent;">
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=OryxWTF&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=ffffff&icon_color=00ff9d" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+
+  <br><br>
+
+  <p>
+    <i>"Starting small. Dreaming big. ☕"</i>
   </p>
 
 </div>
