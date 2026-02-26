@@ -4,7 +4,7 @@
 
   <h2>👩‍💻 About Me</h2>
   <p>
-    <b>I'm Vito </b> from 🇩🇪<br>
+    <b>I'm Oryx </b> from 🇩🇪<br>
     Just starting my coding journey – let's build cool things together!
   </p>
 
