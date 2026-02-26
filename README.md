@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Hey+there!+%F0%9F%91%8B;I'm+OryxWTF;Learning+to+code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Hey+there!+%F0%9F%91%8B;I'm+VITOO;Learning+to+code+%F0%9F%92%BB" alt="Typing SVG" />
   <br><br>
 
-  <h2>👩‍💻 About Me</h2>
+  <h2>👩‍💻 About Me</h2>3
   <p>
     <b>I'm VITO </b> from 🇩🇪<br>
     Just starting my coding journey – let's build cool things together!
