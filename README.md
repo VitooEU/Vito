@@ -4,7 +4,7 @@
 
   <h2>👩‍💻 About Me</h2>
   <p>
-    <b>I'm OryxWTF</b> from <b>Neutraubling, Bavaria</b> 🇩🇪<br>
+    <b>I'm Vito </b> from 🇩🇪<br>
     Just starting my coding journey – let's build cool things together!
   </p>
 
