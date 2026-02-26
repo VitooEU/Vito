@@ -4,7 +4,7 @@
 
   <h2>👩‍💻 About Me</h2>
   <p>
-    <b>I'm Oryx </b> from 🇩🇪<br>
+    <b>I'm VITO </b> from 🇩🇪<br>
     Just starting my coding journey – let's build cool things together!
   </p>
 
@@ -24,7 +24,7 @@
   <!-- Neuer cooler Ersatz für die Stats -->
   <h2>⚡ Currently jamming on</h2>
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=OryxWTF&theme=react-dark&bg_color=0d1117&color=00ff9d&line=00ff9d&point=ffffff&area=true&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vitoWTF&theme=react-dark&bg_color=0d1117&color=00ff9d&line=00ff9d&point=ffffff&area=true&hide_border=true" 
     alt="Activity Graph" 
     width="85%" 
   />
